@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.error-message {
+  color: red;
+  font-weight: 600;
+  font-size: 32px;
+}

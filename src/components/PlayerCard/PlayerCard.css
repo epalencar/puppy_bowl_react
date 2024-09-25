@@ -1,0 +1,18 @@
+.player-card {
+  width: 27%;
+  border: 3px solid;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.player-card img {
+  max-width: 100%;
+}
+
+.player-link {
+  width: 100%;
+  padding: 10px 0;
+  text-decoration: none;
+  font-family: inherit;
+  color: black;
+  font-size: 20px;
+}

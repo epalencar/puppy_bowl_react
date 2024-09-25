@@ -1,0 +1,20 @@
+.add-player-form {
+  border: 1px solid black;
+  width: 50%;
+  margin: 0 auto;
+  padding: 15px 10%;
+}
+
+.add-player-form input {
+  display: block;
+  margin: 10px 0 15px 0;
+}
+
+.add-player-form input[type="text"] {
+  width: 100%;
+}
+
+.add-player-form button {
+  display: block;
+  margin: 15px 0;
+}
